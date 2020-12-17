@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_add_image.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\layout\\frag_add_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\layout_slide_layout.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\layout\\slide_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_left_drawer.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\layout\\menu_left_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\anim_zoom_in.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_left.png.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\left.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\layout_part_overlay.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\layout\\part_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_part_small_btn.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\part_small_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_part_icones.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\part_icones.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_fruits.jpg.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-xxxhdpi\\fruits.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\anim_fab_hide.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\anim\\fab_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_cake.jpg.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-xxxhdpi\\cake.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_liked.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_liked.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_meat.jpg.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-xxxhdpi\\meat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_fries.jpg.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-xxxhdpi\\fries.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_videos.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_videos.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backblu.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\backblu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo1.jpeg.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\logo1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_madeline.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\layout\\activity_madeline.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cancel.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\anim_zoom_out.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_part_badge.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\part_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_option.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\layout\\item_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_add_video.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\layout\\frag_add_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.png.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_carted.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_carted.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_set.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\layout\\activity_user_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cart.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_profile.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\layout\\frag_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_mini.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\layout\\menu_mini.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_video.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_login.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\layout\\activity_user_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_website.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_website.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_view.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_password.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_part_round.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\part_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_drinks.jpg.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-xxxhdpi\\drinks.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_send.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_setting.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\layout\\frag_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_image_w.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_image_w.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\anim_fab_show.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\anim\\fab_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sms.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_sms.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_image.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_like.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_like.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\layout_part_post_product.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\layout\\part_post_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_home.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\layout\\frag_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_desc.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\layout\\activity_desc.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_more.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\menu\\menu_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_new.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\layout\\activity_user_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_about.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\layout\\frag_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_download.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_exit.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\ic_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\drawable_part_types.xml.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\drawable\\part_types.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kiboma\\AndroidStudioProjects\\moses\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    }
+]

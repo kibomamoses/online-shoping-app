@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bak"
+    android:id="@+id/pare">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrol1">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_centerHorizontal="true"
+                android:id="@+id/prod_pic"
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:layout_marginTop="20dp"
+                android:background="#b2b1b3"
+                android:clickable="true"
+                android:scaleType="centerCrop"
+                android:visibility="gone"/>
+
+            <Button
+                android:id="@+id/prod_img"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/prod_pic"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="20dp"
+                android:background="#C99868"
+                android:clickable="true"
+                android:text="Tap to add Image" />
+
+            <LinearLayout
+                android:id="@+id/cbox"
+                android:layout_below="@+id/prod_img"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_alignParentBottom="true"
+                android:background="@color/bak"
+                android:gravity="center"
+                android:padding="20dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:text="Type"
+                        android:layout_weight="1"
+                        android:padding="16dp"
+                        android:textSize="16dp"/>
+
+                    <Spinner
+                        android:id="@+id/prod_type"
+                        android:layout_width="0dp"
+                        android:gravity="end"
+                        android:layout_weight="1"
+                        android:layout_height="wrap_content"
+                        android:entries="@array/Vbodyty_arrays"
+                        android:prompt="@string/Vbody_prompt"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:text="Price"
+                        android:layout_weight="0.49"
+                        android:padding="16dp"
+                        android:textSize="16dp"/>
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="0dp"
+                        android:layout_weight="0.50"
+                        android:paddingRight="20dp"
+                        android:layout_height="wrap_content">
+
+                        <EditText
+                            android:id="@+id/prod_price"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="Price"
+                            android:inputType="number"
+                            android:maxLines="1"
+                            android:singleLine="true" />
+
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:text="Weight"
+                        android:layout_weight="0.49"
+                        android:padding="16dp"
+                        android:textSize="16dp"/>
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="0dp"
+                        android:layout_weight="0.50"
+                        android:paddingRight="20dp"
+                        android:layout_height="wrap_content">
+
+                        <EditText
+                            android:id="@+id/prod_weight"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="Weight (Grams)"
+                            android:inputType="number"
+                            android:maxLines="1"
+                            android:singleLine="true" />
+
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:text="Delivery"
+                        android:layout_weight="1"
+                        android:padding="16dp"
+                        android:textSize="16dp"/>
+
+                    <Spinner
+                        android:id="@+id/prod_delivery"
+                        android:layout_width="0dp"
+                        android:gravity="end"
+                        android:layout_weight="1"
+                        android:layout_height="wrap_content"
+                        android:entries="@array/Vregion_arrays"
+                        android:prompt="@string/Vregiom_prompt"/>
+
+                </LinearLayout>
+
+                <EditText
+                    android:id="@+id/prod_desc"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:layout_weight="1"
+
+                    android:hint="Type a description of the product"
+                    android:inputType="textCapSentences|textMultiLine" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="20dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:layout_centerVertical="true"
+                    android:id="@+id/prod_send"
+                    android:src="@drawable/ic_send"
+                    android:background="#E2C8B2"/>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

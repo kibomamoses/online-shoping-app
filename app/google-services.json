@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "746982292647",
+    "firebase_url": "https://kiboma-a97c4.firebaseio.com",
+    "project_id": "kiboma-a97c4",
+    "storage_bucket": "kiboma-a97c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746982292647:android:ed7e743432b35a694daf82",
+        "android_client_info": {
+          "package_name": "com.example.moses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746982292647-2ghql828diju38j5jo60u9ttj5bmrmt9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moses",
+            "certificate_hash": "5a327f136cbcebea86fe77e2e29ee59b30f626d4"
+          }
+        },
+        {
+          "client_id": "746982292647-80q4l5io601mumrdl8bu1tjql2go6q2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCphZMYg8LlT08NDp3lxnLXEL9QagjysfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746982292647-80q4l5io601mumrdl8bu1tjql2go6q2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

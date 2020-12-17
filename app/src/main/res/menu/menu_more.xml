@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_cartes"
+            android:icon="@drawable/ic_carted"
+            android:background="@drawable/part_badge"
+            android:title="Cart"
+            app:actionLayout="@layout/part_overlay"
+            app:showAsAction="always"/>
+    </group>
+
+</menu>

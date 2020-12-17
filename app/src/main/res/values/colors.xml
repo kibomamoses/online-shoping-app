@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#a97a42</color>
+    <color name="colorPrimaryDark">#a97a42</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="color_primary">#212121</color>
+    <color name="color_secondary">#757575</color>
+
+    <color name="bak">#baa067</color>
+
+    <color name="bak1">#548585</color>
+
+    <color name="colorAppDivider">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colortWhite">#CCCCCC</color>
+
+    <color name="price">#570000</color>
+</resources>
